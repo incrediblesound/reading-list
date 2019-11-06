@@ -23,3 +23,7 @@ don't have a particular topic they want to explore.
 such an influential categorization was developed through literary analysis.
 
 - Biology and Knowledge by Jean Piaget **[ T ]**
+
+# Literature
+
+- The Decameron by Boccacio **[ L ]** The Decameron is a compendium of ancient stories and folk-tales re-told by Boccaccio. It's a window into life in the 14th century, a historically valuable repository of old stories, and an entertaining mix of funny, erotic, and tragic tales many of which are timeless.
