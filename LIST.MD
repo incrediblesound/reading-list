@@ -3,7 +3,7 @@ This is a list of books that I would reccommend to anyone. I omit books that I f
 Readability key:   
 **[ L ]** = light, enjoyable reading   
 **[ H ]** = enjoyable read that contains deeper or more technical topics, you might need to look up words
-and concepts if you're not familiar with the subject matter.
+and concepts if you're not familiar with the subject matter.   
 **[ T ]** = heavy technical reading, challenging if you're not familiar with the subject   
 
 # Science
