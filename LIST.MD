@@ -15,6 +15,8 @@ how the development of biological concepts and scientific methods developed in t
  idea that ontogeny recapitulates phylogeny, and transitions into a somewhat heavier exploration
  of developmental timing.
  
+ - Causality and Modern Science by Mario Bunge **[ H ]** This book is technically philosophy, but it provides an in-depth discussion of some of the core issues of science: empiricism, determinism, and causality.
+ 
 # History
 
 - Story of Civilization by Will and Ariel Durant **[ L ]** This eleven volume set is a pleasant way to dive into
@@ -33,6 +35,12 @@ such an influential categorization was developed through literary analysis.
 - The Decameron by Boccacio **[ L ]** The Decameron is a compendium of ancient stories and folk-tales re-told by Boccaccio. It's a window into life in the 14th century, a historically valuable repository of old stories, and an entertaining mix of funny, erotic, and tragic tales many of which are timeless.
 
 - Labyrinth of Solitude by Octavio Paz **[ L ]** contains multiple different forms of literature including history ancient and modern, prose exposition and poetry, all about Mexico and it's people, culture, and spirit.
+
+- Labyrinths by Jorge Luis Borges **[ L ]** A collection of mind-blowing short stories.
+
+- A Fool's Life by Akutagawa Ryunosuke **[ L ]** A collection of reflections and reminiscences by one of the greatest Japanese storytellers of all time.
+
+
 
 # Chinese Literature
 
