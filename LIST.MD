@@ -1,4 +1,4 @@
-This is a list of books that I would reccommend to anyone. I omit books that I feel I enjoyed primarily because they appealed to my personal taste, and instead try to stick to books I feel have a deeper value that cuts across individual tastes and interests.
+This is a list of books that I would reccommend to anyone. I generally try to stick to books I feel have a value that cuts across individual tastes and interests, but occasionally may include more niche books if I feel they deserve mention.
 
 Readability key:   
 **[ L ]** = light, enjoyable reading   
@@ -36,6 +36,6 @@ such an influential categorization was developed through literary analysis.
 
 # Chinese Literature
 
-- Peach Blossom Spring by Tao Qian a short story written almost two thousand years ago about a fisherman who finds a secret passage to hidden mountain village. Accessible online here: http://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf
+- Peach Blossom Spring by Tao Qian **[ L ]** A short story written almost two thousand years ago about a fisherman who finds a secret passage to hidden mountain village. Accessible online here: http://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf
 
-
+- Dao De Jing by Lao Zi **[ L ]** is an ancient political text based on a mystical philosophy and presented in the form of 81 poems. Along with Confucianism and Buddhism it forms the core of eastern philosophy. The best version in my opinion is by Robert G. Hendricks, but the Ursula K. Le Guin version is probably more accessible to a general audience.
