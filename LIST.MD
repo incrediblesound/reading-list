@@ -33,3 +33,9 @@ such an influential categorization was developed through literary analysis.
 - The Decameron by Boccacio **[ L ]** The Decameron is a compendium of ancient stories and folk-tales re-told by Boccaccio. It's a window into life in the 14th century, a historically valuable repository of old stories, and an entertaining mix of funny, erotic, and tragic tales many of which are timeless.
 
 - Labyrinth of Solitude by Octavio Paz **[ L ]** contains multiple different forms of literature including history ancient and modern, prose exposition and poetry, all about Mexico and it's people, culture, and spirit.
+
+# Chinese Literature
+
+- Peach Blossom Spring by Tao Qian a short story written almost two thousand years ago about a fisherman who finds a secret passage to hidden mountain village. Accessible online here: http://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf
+
+
