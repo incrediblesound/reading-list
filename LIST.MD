@@ -28,7 +28,8 @@ don't have a particular topic they want to explore.
 - _Personality Types_ by Carl Jung **[ L ]** The source of the Myers-Briggs test, it's illuminating to see how 
 such an influential categorization was developed through literary analysis.
 
-- _Biology and Knowledge_ by Jean Piaget **[ T ]** 
+- _Biology and Knowledge_ by Jean Piaget **[ T ]** A dense, complicated book that presents the theory of 
+cognitive development that Piaget worked on for most of his life.
 
 # Literature
 
