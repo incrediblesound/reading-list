@@ -39,9 +39,9 @@ cognitive development that Piaget worked on for most of his life.
 
 - _Labyrinths_ by Jorge Luis Borges **[ L ]** A collection of mind-blowing short stories.
 
-- _A Fool's Life_ by Akutagawa Ryunosuke **[ L ]** A collection of reflections and reminiscences by one of the greatest Japanese storytellers of all time.
+- _A Fool's Life_ by Akutagawa Ryunosuke **[ L ]** A collection of reflections and reminiscences by one of the greatest Japanese storytellers of all time. Despite having the "light" flag, this book was composed before the author committed suicide so it does have some heavier themes.
 
-
+- _Pavilion of Women_ by Pearl S. Buck **[ L ]** tells the tale of the matriarch of a noble Chinese family who decides to retire into seclusion to study philosophy, and how that decision affects her life and her family.
 
 # Chinese Literature
 
