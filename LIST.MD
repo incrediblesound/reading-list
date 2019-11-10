@@ -15,7 +15,9 @@ how the development of biological concepts and scientific methods developed in t
  idea that ontogeny recapitulates phylogeny, and transitions into a somewhat heavier exploration
  of developmental timing.
  
- - _Causality and Modern Science_ by Mario Bunge **[ H ]** This book is technically philosophy, but it provides an in-depth discussion of some of the core issues of science: empiricism, determinism, and causality.
+ - _Causality and Modern Science_ by Mario Bunge **[ H ]** provides an in-depth discussion of some of the core issues of science: empiricism, determinism, and causality.
+ 
+ - _The Structure of Scientific Revolutions_ by Thomas Kuhn **[ H ]** One of the most important books in the philosophy and the history of science.
  
 # History
 
