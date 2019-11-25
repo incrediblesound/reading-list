@@ -25,6 +25,8 @@ how the development of biological concepts and scientific methods developed in t
 the history of western civilization. A great starting point for those who are interesting in history but
 don't have a particular topic they want to explore.
 
+- _Dissent and the Supreme Court: Its Role in the Court's History and the Nation's Constitutional Dialogue_ by Melvin I. Urofsky **[ H ]** Far from just a history of dissent, this book will give you insight into consitutional law, what it is, how it operates, and what role the supreme court plays in the US government.
+
 # Psychology
 
 - _Personality Types_ by Carl Jung **[ L ]** The source of the Myers-Briggs test, it's illuminating to see how 
