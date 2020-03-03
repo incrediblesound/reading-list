@@ -52,3 +52,9 @@ cognitive development that Piaget worked on for most of his life.
 - _Peach Blossom Spring_ by Tao Qian **[ L ]** A short story written almost two thousand years ago about a fisherman who finds a secret passage to hidden mountain village. Accessible online here: http://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf
 
 - _Dao De Jing_ by Lao Zi **[ L ]** is an ancient political text based on a mystical philosophy and presented in the form of 81 poems. Along with Confucianism and Buddhism it forms the core of eastern philosophy. The best version in my opinion is by Robert G. Hendricks, but the Ursula K. Le Guin version is probably more accessible to a general audience.
+
+# Travel
+
+- _Journey to the Abyss: The Diaries of Count Harry Kessler 1880-1918_ **[ L ]** Harry Kessler was a German diplomat who travelled the world. His diaries are considered historically significant because they contain descriptions of such a wide variety of people and places. On one page he's accompanying Rodin on a ferry-boat ride, on another he's consulting with Nietzsche's sister about what should be done with the deceased thinker's manuscripts. I particularly like his colorful descriptions of late 19th century United States.
+
+- _Tent Life in Siberia_ by George Kennan. In the late 19th century George Kennan was tasked with exploring northeast Siberia to survey the land for the trans-Siberian telegraph line. This book is a beautifully written account of his journey through Siberia, how he survived in some of the harshest landscapes on earth, and the native people he stayed with along the way.
