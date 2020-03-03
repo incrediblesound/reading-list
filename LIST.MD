@@ -27,6 +27,8 @@ don't have a particular topic they want to explore.
 
 - _Dissent and the Supreme Court: Its Role in the Court's History and the Nation's Constitutional Dialogue_ by Melvin I. Urofsky **[ H ]** Far from just a history of dissent, this book will give you insight into consitutional law, what it is, how it operates, and what role the supreme court plays in the US government.
 
+- _The Glorious Cause: The American Revolution: 1763-1789_ by Robert Middlekauff. **[ H ]** A detailed account of the revolution incorporating military, diplomatic, and biographical elements to give the reader a comprehensive understanding of this period in history.
+
 # Psychology
 
 - _Personality Types_ by Carl Jung **[ L ]** The source of the Myers-Briggs test, it's illuminating to see how 
@@ -57,4 +59,4 @@ cognitive development that Piaget worked on for most of his life.
 
 - _Journey to the Abyss: The Diaries of Count Harry Kessler 1880-1918_ **[ L ]** Harry Kessler was a German diplomat who travelled the world. His diaries are considered historically significant because they contain descriptions of such a wide variety of people and places. On one page he's accompanying Rodin on a ferry-boat ride, on another he's consulting with Nietzsche's sister about what should be done with the deceased thinker's manuscripts. I particularly like his colorful descriptions of late 19th century United States.
 
-- _Tent Life in Siberia_ by George Kennan. In the late 19th century George Kennan was tasked with exploring northeast Siberia to survey the land for the trans-Siberian telegraph line. This book is a beautifully written account of his journey through Siberia, how he survived in some of the harshest landscapes on earth, and the native people he stayed with along the way.
+- _Tent Life in Siberia_ by George Kennan. **[ L ]** In the late 19th century George Kennan was tasked with exploring northeast Siberia to survey the land for the trans-Siberian telegraph line. This book is a beautifully written account of his journey through Siberia, how he survived in some of the harshest landscapes on earth, and the native people he stayed with along the way.
