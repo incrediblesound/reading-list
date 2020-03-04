@@ -9,7 +9,7 @@ and concepts if you're not familiar with the subject matter.
 # Science
 
  - _The Logic of Life_ by François Jacob **[ H ]** This history of biological thought shows you 
-how the development of biological concepts and scientific methods developed in tandem over time
+how biological concepts and scientific methods developed in tandem over time
 
  - _Ontogeny and Phylogeny_ by S.J Gould **[ T ]** This books begins with an exploration of the discredited
  idea that ontogeny recapitulates phylogeny, and transitions into a somewhat heavier exploration
