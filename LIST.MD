@@ -18,6 +18,8 @@ how biological concepts and scientific methods developed in tandem over time
  - _Causality and Modern Science_ by Mario Bunge **[ H ]** provides an in-depth discussion of some of the core issues of science: empiricism, determinism, and causality.
  
  - _The Structure of Scientific Revolutions_ by Thomas Kuhn **[ H ]** One of the most important books in the philosophy and the history of science.
+
+ - _Bees: Their Vision, Chemical Senses, and Language_ by Karl von Frisch. Frisch did thousands of experiments and single-handedly discovered how bees percieve the world and communicate with each other. Then he wrote this small book explaining how he did it. It's a masterpiece of scientific experiment and writing.
  
 # History
 
