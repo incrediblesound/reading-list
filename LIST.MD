@@ -19,7 +19,9 @@ how biological concepts and scientific methods developed in tandem over time
  
  - _The Structure of Scientific Revolutions_ by Thomas Kuhn **[ H ]** One of the most important books in the philosophy and the history of science.
 
- - _Bees: Their Vision, Chemical Senses, and Language_ by Karl von Frisch. **[ L ]** Frisch did thousands of experiments and single-handedly discovered how bees percieve the world and communicate with each other. Then he wrote this small book explaining how he did it. It's a masterpiece of scientific experiment and writing.
+ - _Bees: Their Vision, Chemical Senses, and Language_ by Karl von Frisch. **[ L ]** Frisch did thousands of experiments and single-handedly discovered how bees percieve the world and communicate with each other. Then he wrote this small book that clearly explains how he did it. It's a masterpiece of scientific experiment and writing.
+ 
+ - _Life Ascending: The Ten Great Inventions of Evolution_ by Nick Lane. **[ H ]** Nick covers a number of fascinating topics in this book: the origin of life, the structure of photosynthesis, the evolution of sex and of the eye etc. In each section he covers a variety of theories about the subject, and uses a broad range of contemporary evidence to support his own conclusions.
  
 # History
 
@@ -30,6 +32,8 @@ don't have a particular topic they want to explore.
 - _Dissent and the Supreme Court: Its Role in the Court's History and the Nation's Constitutional Dialogue_ by Melvin I. Urofsky **[ H ]** Far from just a history of dissent, this book will give you insight into consitutional law, what it is, how it operates, and what role the supreme court plays in the US government.
 
 - _The Glorious Cause: The American Revolution: 1763-1789_ by Robert Middlekauff. **[ H ]** A detailed account of the revolution incorporating military, diplomatic, and biographical elements to give the reader a comprehensive understanding of this period in history.
+
+- _The Annals of America_ various authors. **[ H ]** An 18 volume collection of original source documents from throughout American history. This set is a treature trove of historical documents. Open any volume and you will find laws, newspaper and magazine articles, speeches, and legal arguments that have played some role in shaping the history of our nation.
 
 # Psychology
 
